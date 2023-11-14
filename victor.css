@@ -1,0 +1,16 @@
+#contenido1{
+    display : flex;
+    justify-content : center;
+    align-items: center;
+    margin-bottom: 100px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px lightseagreen;
+};
+
+#contenido2{
+    display : flex;
+    justify-content : center;
+    align-items: center;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px lightseagreen;
+};
